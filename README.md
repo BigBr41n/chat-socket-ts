@@ -12,6 +12,10 @@ WebSockets are an alternative to HTTP communication in Web Application, they off
 
 ---
 
+# Test it : 
+[Click here to test it](https://chat-socket-ts.onrender.com/)
+
+
 ## To start setting up the project
 
 Step 1: Clone the repo
